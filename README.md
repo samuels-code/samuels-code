@@ -6,28 +6,21 @@
 
 ##
 
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuels-code&theme=radical&layout=compact" height="149px" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=samuels-code&show_icons=true&title_color=f7418a&icon_color=BBB&text_color=BBB&bg_color=141321&include_all_commits=true" height="149px" />
+</p>
+
+<p float="left" align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=samuels-code&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="251px" />
+  &nbsp; &nbsp;
+
 <div align="center">
-  <a href="https://github.com/samuels-code">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuels-code&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuels-code&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuels-code&theme=monokai&show_icons=true" />
 </div>
-  
-  ##
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Samuels-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Samuels-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samuels-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuels-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Samuels-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-</div>
-   
-  ##
-  
-  <div> 
-   <a href="https://www.linkedin.com/in/samuel-da-silva-12322b225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:samueldswork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+</p>
+
 
   
   
