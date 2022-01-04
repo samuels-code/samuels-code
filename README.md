@@ -1,6 +1,6 @@
-## Olá, eu sou o Samuel Silva! 
+## Olá me chamo Samuel, e seja bem vindo ao meu Github! 
 
--👽 tenho 18 anos, e seja bem vindo ao meu GitHub!
+-👒 tenho 18 anos e gosto muito de Animes e jogos, e o meu anime favorito é o One Piece!
 
 -😃 aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
 
