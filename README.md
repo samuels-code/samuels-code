@@ -1,8 +1,12 @@
-## Olá me chamo Samuel, e seja bem vindo ao meu Github! 
+## Olá, eu sou o Samuel Silva! 👽
 
--👒 tenho 18 anos e gosto muito de Animes e jogos, e o meu anime favorito é o One Piece!
+-💻 Programador Fullstack Jr
 
--😃 aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
+-🎈 Pronomes: Ele/Dele
+
+-👒 Adoro Animes e Mangás, um dos meus Favoritos é o One Piece!
+
+-😃 Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
 
 ##
 
