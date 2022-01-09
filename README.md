@@ -6,7 +6,7 @@
 
 -👒 Adoro Animes e Mangás, um dos meus Favoritos é o One Piece!
 
--😎 Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
+-😎 Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente
 
 ##
 
